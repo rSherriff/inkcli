@@ -2,10 +2,22 @@
   "name": "inkcli",
   "version": "0.1.0",
   "description": "A command line interface for running inkjs games.",
-  "main": "main.js",
+  "main": "./src/main.js",
   "author": "Richard Sherriff",
   "license": "MIT",
   "dependencies": {
     "inkjs": "^1.11.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rSherriff/inkcli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rSherriff/inkcli/issues"
+  },
+  "homepage": "https://github.com/rSherriff/inkcli#readme"
 }
