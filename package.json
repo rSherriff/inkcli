@@ -1,0 +1,11 @@
+{
+  "name": "inkcli",
+  "version": "0.1",
+  "description": "A command line interface for running inkjs games.",
+  "main": "main.js",
+  "author": "Richard Sherriff",
+  "license": "MIT",
+  "devDependencies": {
+    "inkjs": "^1.11.0"
+  }
+}
